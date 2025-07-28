@@ -177,7 +177,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} docы.dokam.ru`,
+        copyright: `Copyright © ${new Date().getFullYear()} docs.dokam.ru`,
       },
       prism: {
         theme: prismThemes.github,
