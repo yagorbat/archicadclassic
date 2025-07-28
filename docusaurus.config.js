@@ -126,10 +126,10 @@ const config = {
             position: 'left',
             label: 'Руководство пользователя',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Блог', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            label: '',
             position: 'right',
           },
         ],
@@ -177,7 +177,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} doc.dokams.ru. Работает на Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
