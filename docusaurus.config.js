@@ -86,7 +86,15 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-        algolia: {
+        
+        items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Руководство пользователя',
+          },
+          algolia: {
       // The application ID provided by Algolia
       appId: 'YOUR_APP_ID',
 
@@ -118,13 +126,6 @@ const config = {
 
       //... other Algolia params
     },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Руководство пользователя',
-          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
