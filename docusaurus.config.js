@@ -129,7 +129,7 @@ const config = {
           {to: '/blog', label: 'Блог', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
-            label: '',
+            label: ' ',
             position: 'right',
           },
         ],
