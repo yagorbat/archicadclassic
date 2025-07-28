@@ -34,7 +34,7 @@
 
 #__docusaurus > nav > div.navbar__inner > div.theme-layout-navbar-right.navbar__items.navbar__items--right > a.navbar__item.navbar__link::before {
     content: "";
-    background-color: var(--ifm-navbar-link-color);
+    background-color: #fff;
     width: 24px;
     height: 24px;
     transition: background-color var(--ifm-transition-fast)var(--ifm-transition-timing-default);
