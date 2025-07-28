@@ -32,7 +32,7 @@
 
 /* Navbar */
 
-.header-github-link:before {
+#__docusaurus > nav > div.navbar__inner > div.theme-layout-navbar-right.navbar__items.navbar__items--right > a:before {
     content: "";
     background-color: var(--ifm-navbar-link-color);
     width: 24px;
