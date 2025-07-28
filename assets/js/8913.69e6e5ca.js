@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarchicadclassic=self.webpackChunkarchicadclassic||[]).push([[8913],{8913:(c,s,a)=>{a.r(s)}}]);
