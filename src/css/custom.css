@@ -55,3 +55,8 @@
     padding: 1rem 1.1rem 1rem 1.25rem!important;
     width: 12.5rem;
 }
+.DocSearch-Search-Icon {
+    margin-left: auto;
+    order: 2;
+    stroke-width: 1.6;
+}
