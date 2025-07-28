@@ -67,3 +67,7 @@
 .navbar__brand {
     width: 17%;
 }
+.navbar {
+    background-color: #000;
+    border-bottom: 1px solid #f7f7f81a;
+}
