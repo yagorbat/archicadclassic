@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarchicadclassic=self.webpackChunkarchicadclassic||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/a/blog","blogTitle":"Blog","authorsListPath":"/a/blog/authors"}')}}]);
