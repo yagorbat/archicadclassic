@@ -177,7 +177,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} doc.dokams.ru. Работает на Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} docы.dokam.ru`,
       },
       prism: {
         theme: prismThemes.github,
