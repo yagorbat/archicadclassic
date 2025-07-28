@@ -83,3 +83,11 @@
     color: #fff;
     
 }
+
+/* Container */
+
+@media (min-width: 1440px){
+.container {
+    max-width: 3000px;
+}
+}
