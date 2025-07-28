@@ -49,3 +49,9 @@
 .DocSearch-Button-Keys {
     display: none;
 }
+
+.DocSearch-Button {
+    border: 1px solid #f7f7f81a!important;
+    padding: 1rem 1.1rem 1rem 1.25rem!important;
+    width: 12.5rem;
+}
