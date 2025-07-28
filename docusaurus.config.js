@@ -129,7 +129,7 @@ const config = {
           {to: '/blog', label: 'Блог', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
-            label: '',
+            label: '2',
             position: 'right',
           },
         ],
@@ -177,7 +177,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} docs.dokam.ru`,
+        copyright: `Copyright © ${new Date().getFullYear()} `,
       },
       prism: {
         theme: prismThemes.github,
