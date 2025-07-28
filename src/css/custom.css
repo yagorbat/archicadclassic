@@ -63,3 +63,7 @@
 .DocSearch-Button-Container {
     width: 100%;
 }
+
+.navbar__brand {
+    width: 17%;
+}
